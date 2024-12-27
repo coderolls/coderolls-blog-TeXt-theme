@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /archive
 
   - titles:
       # @start locale config
@@ -49,4 +49,34 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /about
+  
+  - titles:
+      # @start locale config
+      en      : &EN       Contact Us
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /contact
+  
+  - titles:
+      # @start locale config
+      en      : &EN       Privacy
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /privacy
+  
+  - titles:
+      # @start locale config
+      en      : &EN       Terms
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /terms

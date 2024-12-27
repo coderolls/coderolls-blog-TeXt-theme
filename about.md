@@ -1,74 +1,43 @@
 ---
-layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+layout: page
+title: About Us
+permalink: /about
+comments: false
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+<div class="row justify-content-between">
+<!--<div class="col-md-8 pr-5">-->
+<div>
+<p>Hello 👋🏼 I am Gaurav, 
+let's find out what is coderolls.</p>
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+<p>coderolls is a blog about coding. Here I do write articles about Java programming language, Spring Framework, Hibernate, SQL, GIT, and many related technologies. </p>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+<p>At coderolls, I am trying to write easy-to-understand but in detail tutorials. I am writing few examples in the tutorials which elaborate the concept.</p>
 
-## Features
+<p>If you have any questions please feel free to reach us at hello@coderolls.com</p>
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+<p>Follow coderolls on <a target="_blank"  href="https://twitter.com/coderolls">Twitter <i class="fab fa-twitter"></i></a>,<a target="_blank"  href="https://fb.com/coderolls"> Facebook <i class="fab fa-facebook-square"></i></a>, <a target="_blank" href="https://www.instagram.com/coderolls/">Instagram  <i class="fab fa-instagram"></i></a> and <a target="_blank" href="https://www.youtube.com/channel/UCl31HHUdQbSHOQfc9L-wo3w" >YouTube <i class="fab fa-youtube-square"></i></a>.</p>
 
-## Skins
+<div>
+<a href="https://twitter.com/coderolls?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @coderolls</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0&appId=1670396926597526&autoLogAppEvents=1"></script>
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+<div class="fb-like" data-href="https://www.facebook.com/coderolls" data-width="" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+<p></p>
+<p></p>
 
-### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+<h5>Questions or bug reports?</h5>
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+<p>Get in touch with us at hello@coderolls.com</p>
+
+<p>Or, head over to our <a href="https://github.com/coderolls/coderolls.github.io">Github repository</a>!</p>
+
+</div>
+
+</div>
