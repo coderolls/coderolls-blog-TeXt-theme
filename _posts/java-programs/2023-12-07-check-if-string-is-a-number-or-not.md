@@ -82,7 +82,7 @@ In this method, we are iterating over an array of characters of the String and c
 
 If we find one or more digits in the string, the given string is not a number string or a number.
 
-```Java
+```java
 import java.util.List;
 
 /**
